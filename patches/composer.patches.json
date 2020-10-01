@@ -1,0 +1,7 @@
+{
+  "patches": {
+    "magento/framework": {
+      "Incorrect date format in order invoice": "../environments/global/patches/magento/framework/2.3.5-invoice-datetime-format-v1.patch"
+    }
+  }
+}
